@@ -1,3 +1,5 @@
+<p align="center"><img src="assets/banner.png" alt="IRONWARD-WEB3" width="100%"></p>
+
 # IRONWARD-WEB3
 **Smart-contract review for tokenization projects.**
 
