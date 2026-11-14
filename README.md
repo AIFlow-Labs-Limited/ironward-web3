@@ -16,6 +16,8 @@ In development.
 
 Part of the IRONWARD family → [IRONWARD](https://github.com/AIFlow-Labs-Limited/ironward) · [IRONWARD-WEB](https://github.com/AIFlow-Labs-Limited/ironward-web) · [ironward.aiflowlabs.io](https://ironward.aiflowlabs.io)
 
+AIFLOW LABS products → [IRONWARD](https://github.com/AIFlow-Labs-Limited/ironward) · [IRONWARD-WEB](https://github.com/AIFlow-Labs-Limited/ironward-web) · **IRONWARD-WEB3** · [REWIRE](https://github.com/AIFlow-Labs-Limited/rewire) · [IMPERA](https://github.com/AIFlow-Labs-Limited/impera)
+
 ---
 **AIFLOW LABS LIMITED** · Hong Kong company, registered office in Sheung Wan · Company No. 78586258
 [aiflowlabs.io](https://aiflowlabs.io) · ilessio@aiflowlabs.io
